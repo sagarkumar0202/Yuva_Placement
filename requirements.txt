@@ -1,3 +1,8 @@
+streamlit
+pandas
+numpy
+
+
 mysql.connector
 mysql
 bcrypt==3.1.7
