@@ -1,3 +1,4 @@
+mysql.connector
 mysql
 bcrypt==3.1.7
 captcha==0.5.0
